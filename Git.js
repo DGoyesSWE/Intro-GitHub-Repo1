@@ -1,1 +1,1 @@
-Console.log(Este es el archivo para Git)
+Console.log("Este es el archivo para Git")
